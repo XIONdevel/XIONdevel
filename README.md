@@ -2,7 +2,7 @@
 - 👀 I’m interested in any experience
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: discord XION#7774
+- 📫 How to reach me: discord XION7774
 
 <!---
 XIONdevel/XIONdevel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
